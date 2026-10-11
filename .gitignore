@@ -1,0 +1,18 @@
+# 虚拟环境
+venv/
+env/
+.venv/
+
+# Python 缓存
+__pycache__/
+*.pyc
+
+# 敏感信息（API密钥、Cookies等）
+.env
+config.ini
+
+# 数据库和大数据文件
+*.db
+*.sqlite3
+*.csv
+*.log
